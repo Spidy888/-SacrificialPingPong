@@ -1,2 +1,0 @@
-# -SacrificialPingPong
-Have fun!!
